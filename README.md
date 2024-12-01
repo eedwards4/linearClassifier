@@ -4,7 +4,7 @@ A Naive Bayes linear classifier for the MNIST dataset
 <h4>Contributors: Ethan Edwards</h4>
 
 <h2>To Build</h2>
-This project makes use of the OpenCV library. It can be insalled with: 
+This project makes use of the OpenCV library. It can be installed with: 
 
 ```
 pip install opencv-python
